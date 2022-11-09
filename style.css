@@ -5,6 +5,39 @@
 }
 
 body {
-  background-color: bisque;
+  background-color: rgb(244, 255, 248);
 }
 
+.navbar {
+  background-color: #0b333d;
+}
+
+nav a {
+  color: rgb(211, 211, 211) !important;
+}
+
+.dropdown-item {
+  color: #0b333d !important;
+}
+
+main {
+  width: 80%;
+  height: 75vh;
+  margin: 0 auto;
+  align-items: center;
+}
+
+main img {
+  margin: 0 auto;
+}
+
+.main-text {
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
