@@ -36,6 +36,20 @@ main img {
   align-items: center;
 }
 
+.fc-main {
+  height: auto;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.steps {
+  width: 20%;
+}
+
+.fc-bottom {
+  margin-bottom: 80px;
+}
+
 footer {
   position: fixed;
   bottom: 0;
